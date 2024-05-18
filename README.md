@@ -1,2 +1,1 @@
-# Example
-An example greeter plugin
+# im not writing allat
